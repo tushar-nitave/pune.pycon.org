@@ -1,6 +1,8 @@
 .vscode
 *.pyc
 *.swp
+.idea
+.DS_Store
 db.sqlite3
 static/
 pyconpune/local_settings.py*
